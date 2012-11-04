@@ -5,10 +5,8 @@ WebStorm editor color settings for Jade, LESS, Sass, and HAML. Based on Twilight
 
 Installation
 ----
-    osX: ln -s Twilight__.xml ~/Library/Preferences/WebIdeXX/colors/Twilight__.xml
-    Linux: ln -s Twilight__.xml ~/.WebIdeXX/config/colors/Twilight__.xml
+Unfortunately you can't link the style below. I tried, and Idea just hates that.
 
-or something like that. 
+    osX: cp -s Twilight--.xml ~/Library/Preferences/WebIdeXX/colors/Twilight--.xml
+    Linux: cp -s Twilight--.xml ~/.WebIdeXX/config/colors/Twilight--.xml
 
-You may need to first "Save as" on some old scheme and name it the same thing
-Then just overwrite the file.
